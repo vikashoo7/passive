@@ -1,40 +1,53 @@
 Business/startup name generator
-  https://namelix.com/
+---
+      https://namelix.com/
 
 logo
-  https://logo.com/
+---
+      https://logo.com/
   
 Blog title generator
-  https://zyro.com/
+---
+      https://zyro.com/
   
 photo website
-  https://www.pexels.com/
+---
+      https://www.pexels.com/
   
 sound effect
-  https://www.zapsplat.com/
-  https://snapmuse.com/. -> royalty free video
-  https://archive.org/ -> free music
+---
+      https://www.zapsplat.com/
+      https://snapmuse.com/. -> royalty free video
+      https://archive.org/ -> free music
 
 Afilliate
-  https://www.clickbank.com/
+---
+      https://www.clickbank.com/
 
 Find the trending keyword in youtube
-  https://keywordtool.io/
+---
+      https://keywordtool.io/
 
 Generaing the keyword
-  https://www.tunepocket.com/ 
+---
+      https://www.tunepocket.com/ 
   
 idea
-  meditation
-  water sound
-  creative comment
+---
+      meditation
+      water sound
+      creative comment
+      
 logo
+---
 
 fake  website for amazon
-  https://www.fakespot.com/
+----
+      https://www.fakespot.com/
 
 AI toot
-  Online Image creation
-    Midjourney -> https://www.midjourney.com
+----
+    Online Image creation
+      Midjourney -> https://www.midjourney.com
 
   
