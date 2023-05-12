@@ -48,7 +48,8 @@ fake  website for amazon
 AI toot
 ----
     Online Image creation
-      Midjourney -> https://www.midjourney.com
+      Midjourney -> https://www.midjourney.com ->This is a paid Version
+      Bluewillo -> https://www.bluewillow.ai/
 
 Tools
 ---
