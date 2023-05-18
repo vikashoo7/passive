@@ -50,6 +50,9 @@ AI toot
     Online Image creation
       Midjourney -> https://www.midjourney.com ->This is a paid Version
       Bluewillo -> https://www.bluewillow.ai/
+      
+     Online Voice creation
+      https://www.kreadoai.com/  -> creating voice
 
 Tools
 ---
