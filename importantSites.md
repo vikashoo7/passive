@@ -23,6 +23,11 @@ sound effect
 Afilliate
 ---
       https://www.clickbank.com/
+      https://www.digistore24.com/
+
+Online shopping
+----
+      https://www.etsy.com/
 
 Find the trending keyword in youtube
 ---
@@ -38,8 +43,6 @@ idea
       water sound
       creative comment
       
-logo
----
 
 fake  website for amazon
 ----
