@@ -32,6 +32,7 @@ Online shopping
 Find the trending keyword in youtube
 ---
       https://keywordtool.io/
+      https://toolzu.com/   -> instagram hastag generation
 
 Generaing the keyword
 ---
