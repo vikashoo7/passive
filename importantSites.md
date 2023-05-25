@@ -24,6 +24,7 @@ Afilliate
 ---
       https://www.clickbank.com/
       https://www.digistore24.com/
+      https://linktr.ee/
 
 Online shopping
 ----
