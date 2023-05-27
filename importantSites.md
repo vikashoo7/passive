@@ -29,6 +29,7 @@ Afilliate
 Online shopping
 ----
       https://www.etsy.com/
+      https://gumroad.com/  
 
 Find the trending keyword in youtube
 ---
