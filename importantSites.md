@@ -55,7 +55,8 @@ AI toot
 ----
     Online Image creation
       Midjourney -> https://www.midjourney.com ->This is a paid Version
-      Bluewillo -> https://www.bluewillow.ai/
+      Bluewillo -> https://www.bluewillow.ai/ -> limited inages
+      Playground ai --> https://playgroundai.com/  -> 1000 images per day
       
      Online Voice creation
       https://www.kreadoai.com/  -> creating voice
