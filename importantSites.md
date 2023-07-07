@@ -39,6 +39,9 @@ Find the trending keyword in youtube
 Generaing the keyword
 ---
       https://www.tunepocket.com/ 
+      https://www.ryrob.com/keyword-tool/ -> free keyword research tool
+      https://promoterkit.com/tools/seo/keyword-research -> free keyword research tool
+      https://www.keywordintent.io/ -> ree keyword research tool
   
 idea
 ---
