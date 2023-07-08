@@ -1,6 +1,7 @@
 Business/startup name generator
 ---
       https://namelix.com/
+      https://businessnamemaker.com/in/ -> domain name generator
 
 logo
 ---
